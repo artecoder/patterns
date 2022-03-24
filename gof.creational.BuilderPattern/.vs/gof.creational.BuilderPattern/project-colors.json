@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b40cb9e-ace8-4137-874f-4249b3f58161": {
+      "ProjectGuid": "3b40cb9e-ace8-4137-874f-4249b3f58161",
+      "DisplayName": "CarBuilder",
+      "ColorIndex": 0
+    },
+    "cf2508a4-8508-47c0-b5bb-d3660e2cd5a1": {
+      "ProjectGuid": "cf2508a4-8508-47c0-b5bb-d3660e2cd5a1",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
